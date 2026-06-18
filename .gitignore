@@ -1,0 +1,5 @@
+*.db
+*_info
+*.json
+*_report.txt
+*.pkl

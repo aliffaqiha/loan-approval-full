@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+sqlite3
+matplotlib
+seaborn
+xboost
+lightgbm
+catboost
+optuna
+pickle
